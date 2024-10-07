@@ -1,0 +1,5 @@
+sample_id	sample_type	use	pair_id	experiment_id	run_dir	fastq_dir	fast5_dir	species	gpu
+Gab_dnacent_60min	BrdU	yes	NA	Gab_dnacent_60m_15_2_23	/export/projects/III-data/wcmp_bioinformatics/db291g/data/20200205_cat_brdu/Gab_dnacent_60m_15_2_23/no_sample/20230215_1415_MN23371_FAU06237_e2778d89	fastq	fast5	TriTrypDB-45_LmajorFriedlin	0
+Gab_dnacent_60min	BrdU	yes	NA	Gab_DNAcent_60m_b_7_3_23	/export/projects/III-data/wcmp_bioinformatics/db291g/data/20200205_cat_brdu/Gab_DNAcent_60m_b_7_3_23/no_sample/20230307_1205_MN23371_FAU92692_b96dfc11	fastq	fast5	TriTrypDB-45_LmajorFriedlin	1
+Gab_1mM_28_11_22	BrdU	yes	NA	Gab_dnacent_1mM_28_11_22	/export/projects/III-data/wcmp_bioinformatics/db291g/data/20200205_cat_brdu/Gab_Dnacent/Gab_dnacent_1mM_28_11_22/no_sample/20220906_0616_MC-114086_FAU08788_7bbffcec	fastq	fast5	TriTrypDB-45_LmajorFriedlin	2
+Gabriel_DNAcent_LeishTC_25_5_23	BrdU	yes	NA	Gabriel_DNAcent_LeishTC_25_5_23	/export/projects/III-data/wcmp_bioinformatics/db291g/data/Gab_DNAcent_25_5_23/Gabriel_DNAcent_LeishTC_25_5_23/no_sample/20230525_1145_X1_FAW63215_0877a6bf	fastq	fast5	TriTrypDB-45_LmajorFriedlin	0

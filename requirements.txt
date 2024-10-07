@@ -1,0 +1,14 @@
+bedtools =2.30.0
+libgcc =7.2.0
+minimap2 =2.17
+nanoplot =1.40.2
+ont_vbz_hdf_plugin =1.0.1
+pyfaidx =0.6.2
+r-argparse =2.1.6
+r-bit64
+r-data.table =1.14.2
+r-ggplot2 =3.3.6
+r-ggrepel =0.9.1
+r-r.utils =2.12.0
+samtools =1.15.1
+snakemake =7.18.2
